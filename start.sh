@@ -1,1 +1,1 @@
-https://railway.com/install.sh
+curl -fsSL https://railway.com/install.sh | sh
